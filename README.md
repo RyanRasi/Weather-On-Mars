@@ -1,2 +1,2 @@
-# WeatherOnMars
+# Weather On Mars
 This website uses an API to find weather information from the Mars Curiosity Rover. This is then parsed from JSON through javascript and looped to h1 elements and displayed to the webpage. The only problems I can see so far is the slight delay in displaying the data however this may be intentional on the API developers part. API is from https://www.programmableweb.com/api/maas2 and is built upon the REMS (Rover Environmental Monitoring Station).
